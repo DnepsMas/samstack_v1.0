@@ -445,3 +445,4 @@ dist-ssr
 .venv
 /backend/apps/newton/users.db
 /backend/apps/newton/moments.db
+backend\.env
